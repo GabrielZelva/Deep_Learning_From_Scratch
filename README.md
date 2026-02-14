@@ -1,7 +1,7 @@
 # Deep Learning From Scratch
 
 **Author**: Gabriel Pišvejc
-**Contact**: gabrielzelva@gmail.com, [LinkedIn](https://www.linkedin.com/in/gabrielpisvejc/?profileId=ACoAADo5FU0BnBPkBj5SmMESVBJ633BazdnsESU)
+**Contact**: GabrielPisvejc@Protonmail.com, [LinkedIn](https://www.linkedin.com/in/gabrielpisvejc/?profileId=ACoAADo5FU0BnBPkBj5SmMESVBJ633BazdnsESU)
 
 In this small project of mine, I wanted to create a deep learning model from scratch, without using any external machine learning libraries like TensorFlow or PyTorch. The model predicts the authenticity of bank notes with ~99.78% accuracy. 
 
@@ -12,8 +12,6 @@ It was meant both as a learning exercise and as a demonstration of a ground-up u
 - The neural network structure
 - Forward propagation
 - Backward propagation
-- Activation functions (ReLU, Logistic)
-- Loss function and its derivatives (Square error)
 - Stochastic gradient descent
 - Training loop on a real-world dataset
 
